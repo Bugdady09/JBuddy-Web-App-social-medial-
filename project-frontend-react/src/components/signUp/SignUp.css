@@ -1,0 +1,15 @@
+.signup-background {
+  color: rgb(82, 80, 80);
+  height: 92vh;
+}
+.signup-card {
+  margin-top: 100px;
+}
+
+.signup-card-body-text {
+  font-size: 15px;
+  margin-left: 10px;
+}
+.myDiv {
+  box-shadow: rgba(255, 254, 254, 0.24) 0px 3px 8px;
+}

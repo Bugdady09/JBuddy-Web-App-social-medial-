@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap");
+.post-image-home {
+  width: 300px;
+  height: 300px;
+  margin-left: 200px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.post-text-size {
+  font-size: 15px;
+  font-family: "Cairo", sans-serif;
+}

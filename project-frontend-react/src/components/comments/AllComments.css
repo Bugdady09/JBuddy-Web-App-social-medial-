@@ -1,0 +1,22 @@
+.img-icon-comment {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+
+.show-all-comment-box {
+  background-color: #eee;
+  border-radius: 5px;
+  padding-left: 45px;
+  padding-right: 60px;
+  padding-bottom: 10px;
+}
+.img-icon-comment {
+  /* width: 25px;
+  height: 25px; */
+  border-radius: 50%;
+  font-size: 20px;
+  padding: 2px;
+  border: 2px solid rgb(102, 100, 100);
+  color: rgb(148, 142, 142);
+}
